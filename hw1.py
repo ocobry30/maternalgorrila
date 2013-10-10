@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Bryan O'Connor
+# Evergreen Login: Ocobry30
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 1
