@@ -1,4 +1,9 @@
-OCOBRY30
+# Name: Bryan O'Connor
+# Evergreen Login: ocobry30
+# Computer Science Foundations
+# Programming as a Way of Life
+# Homework 2
+
 
 
 ###
@@ -30,7 +35,7 @@ print "Problem 2 solution follows:"
 nom = 2.0
 rep = 0.0
 
-while(nom < 11):
+while(nom < 10):
     rep = 1 / nom
     print rep
     nom = nom + 1
