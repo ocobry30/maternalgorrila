@@ -12,17 +12,14 @@
 
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 1 solution follows:"
-from hw2_test import n
-
-i = 0
-sum = 0
-
-while(i <= n):
-    sum = sum + i
-    i = i + 1 
-    
-print sum
-
+def (sumTo(A):
+    theSum = 0
+    B = 1
+    while B <= A:
+        theSum = theSum + B
+        B = B + 1
+    return theSum
+print(sumTo(100))    
 
 
 ###
